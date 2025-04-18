@@ -1,5 +1,3 @@
-# Cancer-Detection
-
 # Metastatic Cancer Detection from Histopathologic Images
 
 This project uses deep learning techniques to detect the presence of metastatic cancer in small histopathologic image patches. Built with TensorFlow/Keras and powered by transfer learning (ResNet50), the pipeline efficiently handles a large volume of high-resolution medical imagery for binary image classification.
@@ -21,7 +19,7 @@ You can run this notebook locally or on [Google Colab](https://colab.research.go
 ### Option 1: Run in Google Colab
 Click the badge below to open in Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your_username/your_repo/blob/main/notebook.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vXZkEYXGDkt8lW7jj3NSB67daHH__igM?usp=sharing)
 
 1. Upload `histopathologic-cancer-detection.zip` (from Kaggle)
 2. Follow the notebook steps to:
